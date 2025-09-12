@@ -1,0 +1,15 @@
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\bin\Debug\net6.0\EVA_Aufg1.exe
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\bin\Debug\net6.0\EVA_Aufg1.deps.json
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\bin\Debug\net6.0\EVA_Aufg1.runtimeconfig.json
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\bin\Debug\net6.0\EVA_Aufg1.dll
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\bin\Debug\net6.0\EVA_Aufg1.pdb
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.csproj.AssemblyReference.cache
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.GeneratedMSBuildEditorConfig.editorconfig
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.AssemblyInfoInputs.cache
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.AssemblyInfo.cs
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.csproj.CoreCompileInputs.cache
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.dll
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\refint\EVA_Aufg1.dll
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.pdb
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\EVA_Aufg1.genruntimeconfig.cache
+U:\Eigene Dateien\VSCode\repos\EVA_Aufg1\EVA_Aufg1\obj\Debug\net6.0\ref\EVA_Aufg1.dll
