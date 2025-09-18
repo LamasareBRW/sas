@@ -1,4 +1,4 @@
-﻿// Deklaration
+// Deklaration
 double lohn;
 double stunden;
 double endLohn;
@@ -15,7 +15,7 @@ Console.Write("\tGeben Sie den Prozentsatz der BA ein:\t\t\t\t");
     prozent = Convert.ToDouble(Console.ReadLine());
 
 // Verarbeitung
-prozent = prozent * 0.01;
+prozent = (100 - prozent) / 100;
 endLohn = lohn * stunden * prozent;
 
 // Ausgabe
