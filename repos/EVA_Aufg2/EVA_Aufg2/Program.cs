@@ -5,6 +5,9 @@ double endLohn;
 double prozent;
 
 // Eingabe
+Console.WriteLine("\n\tBerechnen des Monatsgehalts");
+Console.WriteLine("\t===========================");
+
 Console.Write("\n\tGeben Sie den Stundenlohn des Mitarbeiters ein:\t\t\t");
     lohn = Convert.ToDouble(Console.ReadLine());
 
