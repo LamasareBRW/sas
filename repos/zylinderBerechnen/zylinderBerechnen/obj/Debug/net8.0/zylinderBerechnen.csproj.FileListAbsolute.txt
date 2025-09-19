@@ -1,0 +1,14 @@
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\bin\Debug\net8.0\zylinderBerechnen.exe
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\bin\Debug\net8.0\zylinderBerechnen.deps.json
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\bin\Debug\net8.0\zylinderBerechnen.runtimeconfig.json
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\bin\Debug\net8.0\zylinderBerechnen.dll
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\bin\Debug\net8.0\zylinderBerechnen.pdb
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\zylinderBerechnen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\zylinderBerechnen.AssemblyInfoInputs.cache
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\zylinderBerechnen.AssemblyInfo.cs
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\zylinderBerechnen.csproj.CoreCompileInputs.cache
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\zylinderBerechnen.dll
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\refint\zylinderBerechnen.dll
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\zylinderBerechnen.pdb
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\zylinderBerechnen.genruntimeconfig.cache
+C:\Users\tatja\source\repos\zylinderBerechnen\zylinderBerechnen\obj\Debug\net8.0\ref\zylinderBerechnen.dll
