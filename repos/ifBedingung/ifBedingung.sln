@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifBedingung", "\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\ifBedingung.csproj", "{AA4F63E3-117E-4DD1-993D-6D191922A0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA4F63E3-117E-4DD1-993D-6D191922A0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4F63E3-117E-4DD1-993D-6D191922A0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4F63E3-117E-4DD1-993D-6D191922A0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4F63E3-117E-4DD1-993D-6D191922A0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D106EF-32F2-4AA2-8894-15B3C0C826A0}
+	EndGlobalSection
+EndGlobal

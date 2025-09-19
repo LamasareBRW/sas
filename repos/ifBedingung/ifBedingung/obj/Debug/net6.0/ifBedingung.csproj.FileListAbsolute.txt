@@ -1,0 +1,15 @@
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\bin\Debug\net6.0\ifBedingung.exe
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\bin\Debug\net6.0\ifBedingung.deps.json
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\bin\Debug\net6.0\ifBedingung.runtimeconfig.json
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\bin\Debug\net6.0\ifBedingung.dll
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\bin\Debug\net6.0\ifBedingung.pdb
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.csproj.AssemblyReference.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.GeneratedMSBuildEditorConfig.editorconfig
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.AssemblyInfoInputs.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.AssemblyInfo.cs
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.csproj.CoreCompileInputs.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.dll
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\refint\ifBedingung.dll
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.pdb
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ifBedingung.genruntimeconfig.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\ifBedingung\ifBedingung\obj\Debug\net6.0\ref\ifBedingung.dll
