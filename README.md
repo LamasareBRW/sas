@@ -10,3 +10,4 @@ HA:
 - [EVA Aufgabe 1](https://github.com/LamasareBRW/sas/blob/main/repos/EVA_Aufg1/EVA_Aufg1/Program.cs)
 
 Andere Projekte:
+- [EVA Aufgabe 2](https://github.com/LamasareBRW/sas/blob/main/repos/EVA_Aufg2/EVA_Aufg2/Program.cs)
