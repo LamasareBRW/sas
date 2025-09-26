@@ -1,0 +1,15 @@
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\bin\Debug\net6.0\wurzelEinerZahl.exe
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\bin\Debug\net6.0\wurzelEinerZahl.deps.json
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\bin\Debug\net6.0\wurzelEinerZahl.runtimeconfig.json
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\bin\Debug\net6.0\wurzelEinerZahl.dll
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\bin\Debug\net6.0\wurzelEinerZahl.pdb
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.csproj.AssemblyReference.cache
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.GeneratedMSBuildEditorConfig.editorconfig
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.AssemblyInfoInputs.cache
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.AssemblyInfo.cs
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.csproj.CoreCompileInputs.cache
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.dll
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\refint\wurzelEinerZahl.dll
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.pdb
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\wurzelEinerZahl.genruntimeconfig.cache
+U:\Eigene Dateien\VSCode\repos\wurzelEinerZahl\wurzelEinerZahl\obj\Debug\net6.0\ref\wurzelEinerZahl.dll
