@@ -10,7 +10,7 @@ HA:
 - [EVA Aufgabe 1](https://github.com/LamasareBRW/sas/blob/main/repos/EVA_Aufg1/EVA_Aufg1/Program.cs)
 - [Zylinder Berechnen](https://github.com/LamasareBRW/sas/blob/main/repos/zylinderBerechnen/zylinderBerechnen/Program.cs)
 - [Wurzel einer Zahl](https://github.com/LamasareBRW/sas/blob/main/repos/wurzelEinerZahl/wurzelEinerZahl/Program.cs)
-- Noten Definition (Byte)
+- [Noten Definition (Byte)](https://github.com/LamasareBRW/sas/blob/main/repos/uebungNotenByte2/uebungNotenByte2/Program.cs)
 - Noten Definition (Character)
 - Noten Definition (String)
 
