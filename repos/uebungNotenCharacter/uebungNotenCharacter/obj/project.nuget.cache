@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+bwyrBP2MF4WEJXkL1D7Ylc907i5lgSoBaUd9gyquliPq8Qn7DZGsi1783IJO+d8sAQhCQ9gs7NICBQY5Rr4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tatja\\source\\repos\\uebungNotenCharacter\\uebungNotenCharacter\\uebungNotenCharacter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tatja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tatja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tatja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\tatja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
