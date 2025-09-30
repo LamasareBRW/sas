@@ -12,7 +12,7 @@ fehler = false;
 Console.WriteLine("\n\tWurzel berechnen");
 Console.WriteLine("\t================");
 
-Console.Write("\n\tGeben Sie zu berechnende Zahl ein:\t");
+Console.Write("\n\tGeben Sie die zu berechnende Zahl ein:\t");
     zahl = Convert.ToDouble(Console.ReadLine());
 
 if (zahl <= 0) {
@@ -30,4 +30,5 @@ if (!fehler) {
     Console.WriteLine($"\n\tDas Ergebnis lautet {loesung}");
 } else {
     Console.WriteLine("\n\tFehler bei der Eingabe: Nur positive Zahlen können berechnet werden.");
+
 }
