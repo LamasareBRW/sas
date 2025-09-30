@@ -1,0 +1,14 @@
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\bin\Debug\net6.0\uebungNotenByte2.exe
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\bin\Debug\net6.0\uebungNotenByte2.deps.json
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\bin\Debug\net6.0\uebungNotenByte2.runtimeconfig.json
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\bin\Debug\net6.0\uebungNotenByte2.dll
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\bin\Debug\net6.0\uebungNotenByte2.pdb
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\uebungNotenByte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\uebungNotenByte2.AssemblyInfoInputs.cache
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\uebungNotenByte2.AssemblyInfo.cs
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\uebungNotenByte2.csproj.CoreCompileInputs.cache
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\uebungNotenByte2.dll
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\refint\uebungNotenByte2.dll
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\uebungNotenByte2.pdb
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\uebungNotenByte2.genruntimeconfig.cache
+C:\Users\tatja\source\repos\uebungNotenByte2\uebungNotenByte2\obj\Debug\net6.0\ref\uebungNotenByte2.dll
