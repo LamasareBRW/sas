@@ -12,7 +12,7 @@ HA:
 - [Wurzel einer Zahl](https://github.com/LamasareBRW/sas/blob/main/repos/wurzelEinerZahl/wurzelEinerZahl/Program.cs)
 - [Noten Definition (Byte)](https://github.com/LamasareBRW/sas/blob/main/repos/uebungNotenByte2/uebungNotenByte2/Program.cs)
 - [Noten Definition (Character)](https://github.com/LamasareBRW/sas/blob/main/repos/uebungNotenCharacter/uebungNotenCharacter/Program.cs)
-- [Noten Definition (String)](https://github.com/LamasareBRW/sas/blob/main/repos/uebungNotenCharacter/uebungNotenCharacter/Program.cs)
+- [Noten Definition (String)](https://github.com/LamasareBRW/sas/blob/main/repos/uebungNotenString/uebungNotenString/Program.cs)
 
 Andere Projekte:
 - [EVA Aufgabe 2](https://github.com/LamasareBRW/sas/blob/main/repos/EVA_Aufg2/EVA_Aufg2/Program.cs)
