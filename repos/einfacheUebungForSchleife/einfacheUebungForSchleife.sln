@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "einfacheUebungForSchleife", "\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\einfacheUebungForSchleife.csproj", "{5CF53294-1EBD-4E7C-887A-6FE165AD9553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF53294-1EBD-4E7C-887A-6FE165AD9553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF53294-1EBD-4E7C-887A-6FE165AD9553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF53294-1EBD-4E7C-887A-6FE165AD9553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF53294-1EBD-4E7C-887A-6FE165AD9553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF26364-7FF2-4DF6-BB55-0C130200E9C0}
+	EndGlobalSection
+EndGlobal

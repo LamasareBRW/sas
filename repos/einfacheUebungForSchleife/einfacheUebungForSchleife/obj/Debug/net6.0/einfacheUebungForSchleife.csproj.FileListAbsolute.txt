@@ -1,0 +1,15 @@
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\bin\Debug\net6.0\einfacheUebungForSchleife.exe
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\bin\Debug\net6.0\einfacheUebungForSchleife.deps.json
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\bin\Debug\net6.0\einfacheUebungForSchleife.runtimeconfig.json
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\bin\Debug\net6.0\einfacheUebungForSchleife.dll
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\bin\Debug\net6.0\einfacheUebungForSchleife.pdb
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.csproj.AssemblyReference.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.GeneratedMSBuildEditorConfig.editorconfig
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.AssemblyInfoInputs.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.AssemblyInfo.cs
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.csproj.CoreCompileInputs.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.dll
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\refint\einfacheUebungForSchleife.dll
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.pdb
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\einfacheUebungForSchleife.genruntimeconfig.cache
+\\lbk-fs01\nfsstudentsroot\SchereAlek14\Eigene Dateien\VSCode\repos\einfacheUebungForSchleife\einfacheUebungForSchleife\obj\Debug\net6.0\ref\einfacheUebungForSchleife.dll
