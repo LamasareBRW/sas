@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\EVA_Aufg2\\sparanlage\\sparanlage.csproj": {}
+    "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\sparanlage\\sparanlage.csproj": {}
   },
   "projects": {
-    "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\EVA_Aufg2\\sparanlage\\sparanlage.csproj": {
+    "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\sparanlage\\sparanlage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\EVA_Aufg2\\sparanlage\\sparanlage.csproj",
+        "projectUniqueName": "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\sparanlage\\sparanlage.csproj",
         "projectName": "sparanlage",
-        "projectPath": "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\EVA_Aufg2\\sparanlage\\sparanlage.csproj",
+        "projectPath": "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\sparanlage\\sparanlage.csproj",
         "packagesPath": "C:\\Users\\scherealek14\\.nuget\\packages\\",
-        "outputPath": "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\EVA_Aufg2\\sparanlage\\obj\\",
+        "outputPath": "\\\\lbk-fs01\\nfsstudentsroot\\SchereAlek14\\Eigene Dateien\\VSCode\\repos\\sparanlage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

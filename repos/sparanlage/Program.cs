@@ -1,39 +1,34 @@
 ﻿// Deklaration
-double sparsumme;
-double jahre;
-double zinsen;
-double kapital;
+int eingabe;
+int loesung;
 bool fehler;
 
 // Initialisierung
 fehler = false;
-kapital = 1;
+loesung = 0;
 
 // Eingabe
-Console.WriteLine("\n\tProgramm zur Zinsberechnung");
-Console.WriteLine("\t===========================");
+Console.WriteLine("\n\tProgramm zur Quersummenrechnung");
+Console.WriteLine("\t===============================");
 
-Console.Write("\n\tGeben Sie die monatliche Sparsumme ein:\t");
-    sparsumme = Convert.ToDouble(Console.ReadLine());
-Console.Write("\tGeben Sie die Jahresanzahl ein:\t\t");
-    jahre = Convert.ToDouble(Console.ReadLine());
-Console.Write("\tGeben Sie die Zinsen ein:\t\t");
-    zinsen = Convert.ToDouble(Console.ReadLine());
+Console.Write("Geben Sie eine 5-Stellige Ziffer ein:\t");
+    eingabe = Convert.ToInt32(Console.ReadLine());
 
-if(sparsumme <= 0 || jahre <= 0 || zinsen <= 0) {
+if (eingabe <= 9999 || eingabe >= 100000) {
     fehler = true;
 }
 
 // Verarbeitung
 if (!fehler) {
-    zinsen = zinsen / 100 + 1;
-    kapital = sparsumme * 12;    
-}
-// Ausgabe
-
-if (!fehler) {
-    for (int i = 0; i <= jahre; i++) {
-        Console.WriteLine($"\n\tJahr {i}: {kapital} (Wachstum = {Math.Round(kapital * zinsen - kapital, 2)})");
-        kapital = Math.Round(kapital * zinsen, 2);
+    for (int i = 1; i <= 5; i++) {
+        loesung = (eingabe % 10) + loesung;
+        eingabe = eingabe / 10;
     }
+}
+
+// Ausgabe
+if (!fehler) {
+    Console.WriteLine($"\n\tDie Quersumme beträgt {loesung}");
+} else {
+    Console.WriteLine("\n\tFehler bei der Eingabe.")
 }
